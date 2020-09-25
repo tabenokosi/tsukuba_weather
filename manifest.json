@@ -1,0 +1,11 @@
+{
+    "manifest_version": 2,
+    "description" : "つくばの天気を表示します",
+    "name": "勝手につくば天気",
+    "version": "0.1",
+    
+    "browser_action": {
+      "default_locale": "ja_JP",
+      "default_popup": "hello.html"
+    }
+   }
